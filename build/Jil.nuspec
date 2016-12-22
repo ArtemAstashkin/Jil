@@ -21,7 +21,8 @@
         </frameworkAssemblies>
     </metadata>
     <files>        
-        <file src="..\Jil\bin\Release\Jil.dll" target="lib" />
-        <file src="..\Jil\bin\Release\Jil.pdb" target="lib" />
+        <file src="..\Jil\bin\Release\Jil.xml" target="net45\lib" />
+        <file src="..\Jil\bin\Release\Jil.dll" target="net45\lib" />
+        <file src="..\Jil\bin\Release\Jil.pdb" target="net45\lib" />
     </files>
 </package>
