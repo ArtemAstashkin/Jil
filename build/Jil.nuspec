@@ -22,7 +22,7 @@
     </metadata>
     <files>
         <file src="..\LICENSE" target="." />
-        <file src="..\src\Jil\bin\Release\Jil.dll" target="lib\" />
-        <file src="..\src\Jil\bin\Release\Jil.pdb" target="lib\" />
+        <file src="..\Jil\bin\Release\Jil.dll" target="lib\" />
+        <file src="..\Jil\bin\Release\Jil.pdb" target="lib\" />
     </files>
 </package>
